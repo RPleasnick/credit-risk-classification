@@ -11,8 +11,10 @@ The dataset includes historical information from 77,536 loans.  The information 
 
 The Classification Report for logistic regression model shows
 * Accuracy Score: 0.99
-* Precision Score (High-Risk Loans): 0.84
+* Precision Score (High-Risk Loans): 0.85
 * Recall Score (High-Risk Loans): 0.91
+* Precision Score (Healthy Loans): 1.00
+* Recall Score (Healthy Loans): 0.99
    
 
 ## Summary
