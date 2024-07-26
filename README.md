@@ -1,4 +1,4 @@
-# credit-risk-classification2
+# credit-risk-classification
 Supervised Learning - Module 20 Challenge
 
 
